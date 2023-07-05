@@ -83,6 +83,7 @@ create the changes on local file - Execute by steps
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://training.github.com/
 - [GitHub Flow Cheatsheet] https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf
+- Work based on -cloud-3.1-introduction-to-git-i/assignment.md
 
 **To read:**
 -  [Git Flow] https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
