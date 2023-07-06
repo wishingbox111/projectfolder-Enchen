@@ -28,7 +28,7 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
   *To check*
 - `git status` List which files are staged, unstaged, and untracked
   
-### Git Branch 
+### Git Branch (Creating and Going to Branch)
 
 - `git branch` create new branch 
 ```
