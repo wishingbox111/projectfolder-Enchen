@@ -43,10 +43,10 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
         git checkout -b <new-branch-name>
 ```
 create the changes on local file - Execute by steps
-- git add .
-- git commit -m “Comment of the changes”
-- git push --set-upstream origin <new-branch-name>
-- git push
+- `git add .`
+- `git commit -m “Comment of the changes”`
+- `git push --set-upstream origin <new-branch-name>` - note <> should not be in the code
+- `git push`
 
 *Once you merge the codes using the browser (console)
 you can delete the branch (option available after merging)
