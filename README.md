@@ -14,7 +14,7 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
 
 
 *To download the files from Github repo*
-- `“git clone”` is used for just downloading exactly what is currently on the remote repository and saving it in your machine's folder where that project is placed. (Only one time) 
+- `git clone` is used for just downloading exactly what is currently on the remote repository and saving it in your machine's folder where that project is placed. (Only one time) 
 - `git fetch` is the command that tells the local repository that there are changes available in the remote repository without bringing the changes into the local repository.
 - `git pull` downloads the changes and merges them into your current branch. (Can be multiple time if there is new changes on the branch in the repo). 
   
