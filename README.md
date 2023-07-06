@@ -21,7 +21,8 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
 *To use local file to push into Github Repo*
 - `git add .` Stage the all the file for commit to your local repository by the following command.
 - `git commit -m` After creating changes on README file and to commit the file that you’ve staged in your local repository.
-- `git push` 	Push the changes in your local repository to GitHub.
+- `git push`  1)Push the changes in your local repository to GitHub.
+              2)A pull request is an event in Git where a contributor asks a other member of a Git repository to review code they want to merge into a project.
 - `git push origin main` 	Push the changes in your local repository to GitHub.
 
   *To check*
