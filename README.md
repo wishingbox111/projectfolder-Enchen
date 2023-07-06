@@ -11,7 +11,8 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
 *To turn an existing directory into a git repository*
  - `$ git init`
 
-
+*Edit a file in VScode (after downloading VScode and configure it as default when downloading Git)
+- `code .` you are already in the folder, it'll open up the files in the folder to VScode
 
 *To download the files from Github repo*
 - `git clone` is used for just downloading exactly what is currently on the remote repository and saving it in your machine's folder where that project is placed. (Only one time) 
