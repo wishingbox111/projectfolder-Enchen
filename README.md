@@ -30,7 +30,7 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
   
 ### Git Branch (Creating and Going to Branch)
 
-- `git branch` create new branch 
+- `git branch` create new branch & also to check what are the branches in current branch you are in 
 ```
         git branch feature2
 ```
@@ -55,7 +55,7 @@ when you check with `git status`, CLI/powershell is still in the deleted branch*
 - `git checkout main` to move back to main branch
 - `git pull` as the main branch would have changed from last merge. To pull the changes into local folder.
 
-  
+- `git branch -d <name of branch>` to delete the branch when you are in the branch
 
 ----------
 
