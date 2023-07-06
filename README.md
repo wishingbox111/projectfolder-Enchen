@@ -38,7 +38,7 @@ Here are some of the commonly used Git commands to be used in Bash or Powershell
 ```
         git checkout feature2
 ```
-- `git checkout -b` create new branch and change to the branch  
+- `git checkout -b` create new branch and change to the branch (combination of the two code above)
 ```
         git checkout -b <new-branch-name>
 ```
@@ -47,6 +47,15 @@ create the changes on local file - Execute by steps
 - git commit -m “Comment of the changes”
 - git push --set-upstream origin <new-branch-name>
 - git push
+
+*Once you merge the codes using the browser (console)
+you can delete the branch (option available after merging)
+when you check with `git status`, CLI/powershell is still in the deleted branch*
+
+- `git checkout main` to move back to main branch
+- `git pull` as the main branch would have changed from last merge. To pull the changes into local folder.
+
+  
 
 ----------
 
