@@ -78,7 +78,7 @@ when you check with `git status`, CLI/powershell is still in the deleted branch*
 
   
   
-  > Do note that if you follow the instructions for downloads below, cd into the folder in Desktop same name as Repo in Git. try `git init`,`git add .` and `git commnit -m "push"`, and then `git push`, by the last step the program should ask you for credentials (which is to be done once). If it did not happen. Connect from HTTPS or SSH shown in Annex. Instructions are yet to be tested by myself and is still a work in progress. 
+  > Do note that if you follow the instructions for downloads below, cd into the folder in Desktop same name as Repo in Git. try `git init`,`git add .` and `git commit -m "push"`, and then `git push`, by the last step the program should ask you for credentials (which is to be done once). If it did not happen. Connect from HTTPS or SSH shown in Annex. Instructions are yet to be tested by myself and is still a work in progress. 
   
   
   ***Creating SSH Keys when credentials manager in downloaded Git is not working**
